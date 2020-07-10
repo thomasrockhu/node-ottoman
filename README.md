@@ -100,4 +100,3 @@ Check results on [http://localhost:8091/](http://localhost:8091/) couchbase web 
 
 Licensed under the Apache License, Version 2.0.
 See [the Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
-
